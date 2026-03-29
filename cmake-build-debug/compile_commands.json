@@ -1,0 +1,200 @@
+[
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX1\\Test.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX1\\Test.c",
+  "file": "D:/CodeX/CLion/Study/StudyX1/Test.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX1/Test.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX1\\Test6.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX1\\Test6.c",
+  "file": "D:/CodeX/CLion/Study/StudyX1/Test6.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX1/Test6.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX1\\Test7.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX1\\Test7.c",
+  "file": "D:/CodeX/CLion/Study/StudyX1/Test7.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX1/Test7.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX1\\Test8.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX1\\Test8.c",
+  "file": "D:/CodeX/CLion/Study/StudyX1/Test8.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX1/Test8.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX1\\Test9.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX1\\Test9.c",
+  "file": "D:/CodeX/CLion/Study/StudyX1/Test9.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX1/Test9.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX1\\Test10.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX1\\Test10.c",
+  "file": "D:/CodeX/CLion/Study/StudyX1/Test10.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX1/Test10.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX1\\Test11.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX1\\Test11.c",
+  "file": "D:/CodeX/CLion/Study/StudyX1/Test11.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX1/Test11.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX2\\X01.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX2\\X01.c",
+  "file": "D:/CodeX/CLion/Study/StudyX2/X01.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX2/X01.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX2\\X02.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX2\\X02.c",
+  "file": "D:/CodeX/CLion/Study/StudyX2/X02.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX2/X02.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX2\\X03.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX2\\X03.c",
+  "file": "D:/CodeX/CLion/Study/StudyX2/X03.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX2/X03.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX2\\X04.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX2\\X04.c",
+  "file": "D:/CodeX/CLion/Study/StudyX2/X04.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX2/X04.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX2\\X05.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX2\\X05.c",
+  "file": "D:/CodeX/CLion/Study/StudyX2/X05.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX2/X05.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\ClassBegin.c.obj -c D:\\CodeX\\CLion\\Study\\ClassBegin.c",
+  "file": "D:/CodeX/CLion/Study/ClassBegin.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/ClassBegin.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX2\\X06.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX2\\X06.c",
+  "file": "D:/CodeX/CLion/Study/StudyX2/X06.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX2/X06.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX2\\X07.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX2\\X07.c",
+  "file": "D:/CodeX/CLion/Study/StudyX2/X07.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX2/X07.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX2\\X08.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX2\\X08.c",
+  "file": "D:/CodeX/CLion/Study/StudyX2/X08.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX2/X08.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX2\\X09.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX2\\X09.c",
+  "file": "D:/CodeX/CLion/Study/StudyX2/X09.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX2/X09.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX2\\X10.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX2\\X10.c",
+  "file": "D:/CodeX/CLion/Study/StudyX2/X10.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX2/X10.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX3\\X01.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX3\\X01.c",
+  "file": "D:/CodeX/CLion/Study/StudyX3/X01.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX3/X01.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX3\\X02.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX3\\X02.c",
+  "file": "D:/CodeX/CLion/Study/StudyX3/X02.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX3/X02.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX3\\X03.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX3\\X03.c",
+  "file": "D:/CodeX/CLion/Study/StudyX3/X03.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX3/X03.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX3\\X04.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX3\\X04.c",
+  "file": "D:/CodeX/CLion/Study/StudyX3/X04.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX3/X04.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX3\\Test.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX3\\Test.c",
+  "file": "D:/CodeX/CLion/Study/StudyX3/Test.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX3/Test.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX3\\X05.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX3\\X05.c",
+  "file": "D:/CodeX/CLion/Study/StudyX3/X05.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX3/X05.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX3\\X06.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX3\\X06.c",
+  "file": "D:/CodeX/CLion/Study/StudyX3/X06.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX3/X06.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX3\\X07.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX3\\X07.c",
+  "file": "D:/CodeX/CLion/Study/StudyX3/X07.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX3/X07.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX4_struct\\struct01.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX4_struct\\struct01.c",
+  "file": "D:/CodeX/CLion/Study/StudyX4_struct/struct01.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX4_struct/struct01.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX4_struct\\Exp.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX4_struct\\Exp.c",
+  "file": "D:/CodeX/CLion/Study/StudyX4_struct/Exp.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX4_struct/Exp.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX4_struct\\struct02.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX4_struct\\struct02.c",
+  "file": "D:/CodeX/CLion/Study/StudyX4_struct/struct02.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX4_struct/struct02.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX4_struct\\struct03.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX4_struct\\struct03.c",
+  "file": "D:/CodeX/CLion/Study/StudyX4_struct/struct03.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX4_struct/struct03.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX4_struct\\struct04.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX4_struct\\struct04.c",
+  "file": "D:/CodeX/CLion/Study/StudyX4_struct/struct04.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX4_struct/struct04.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX4_struct\\struct05.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX4_struct\\struct05.c",
+  "file": "D:/CodeX/CLion/Study/StudyX4_struct/struct05.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX4_struct/struct05.c.obj"
+},
+{
+  "directory": "D:/CodeX/CLion/Study/cmake-build-debug",
+  "command": "D:\\CodeX\\CLion\\Setting\\CLION2~1.3\\bin\\mingw\\bin\\gcc.exe -g -std=gnu11 -fdiagnostics-color=always -o CMakeFiles\\Study.dir\\StudyX4_struct\\Exp2.c.obj -c D:\\CodeX\\CLion\\Study\\StudyX4_struct\\Exp2.c",
+  "file": "D:/CodeX/CLion/Study/StudyX4_struct/Exp2.c",
+  "output": "D:/CodeX/CLion/Study/cmake-build-debug/CMakeFiles/Study.dir/StudyX4_struct/Exp2.c.obj"
+}
+]
